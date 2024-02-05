@@ -34,7 +34,7 @@ Continents -
 
 7.Which industries within the tech sector have been most affected by layoffs?
 
-![image](https://github.com/sha-scripts/tech_layoffs/assets/143605267/6286f536-2fd3-43be-8a2f-4695683acfca)
+![image](https://github.com/sha-scripts/tech_layoffs/assets/143605267/209f011c-a8bd-449f-b81c-9873b52c4f32)
 
 8.Is there a relationship between the amount of money raised by a company and its likelihood of conducting layoffs?
 
