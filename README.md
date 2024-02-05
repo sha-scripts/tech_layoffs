@@ -28,9 +28,9 @@ Continents -
 
 ![image](https://github.com/sha-scripts/tech_layoffs/assets/143605267/a6f90f81-aa3e-4f3c-b7f1-15ea11d172fa)
 
-6.What is the average percentage of employees laid off by different companies?
+6.What is the average percentage of employees laid off by companies in different stages?
 
-![image](https://github.com/sha-scripts/tech_layoffs/assets/143605267/653d0702-64c2-4035-ad93-33e0cd4cf1d8)
+![image](https://github.com/sha-scripts/tech_layoffs/assets/143605267/eabb5a01-f7e3-4ad5-bcc6-35aa845f176e)
 
 7.Which industries within the tech sector have been most affected by layoffs?
 
