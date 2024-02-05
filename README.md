@@ -44,7 +44,7 @@ Continents -
 
 ![image](https://github.com/sha-scripts/tech_layoffs/assets/143605267/c5fae706-f758-4a7c-8799-c7b2ec921d58)
 
-10.Top 5 Companies with most number of employee laid-off in a single layoff?
+10.Top 5 Companies with most number of employees being laid-off in a single layoff?
 
 ![image](https://github.com/sha-scripts/tech_layoffs/assets/143605267/d56e8e0e-ca7b-4b59-bac2-d609a13f6a79)
 
