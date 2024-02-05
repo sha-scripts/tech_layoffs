@@ -24,7 +24,7 @@ Continents -
 
 ![image](https://github.com/sha-scripts/tech_layoffs/assets/143605267/4d99180b-30e7-4bce-b82b-ed4ca45b4dfe)
 
-5.Which tech companies have conducted the most employee layoffs?
+5.Which tech companies have laid off most number of employees
 
 ![image](https://github.com/sha-scripts/tech_layoffs/assets/143605267/a6f90f81-aa3e-4f3c-b7f1-15ea11d172fa)
 
